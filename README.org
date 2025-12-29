@@ -1,0 +1,15 @@
+#+title: lisp-to-python
+
+*  Table of Contents :TOC_4:
+-  [[#road-map][Road Map]]
+  -  [[#setup-ocaml-project][Setup Ocaml project]]
+  -  [[#lisp-compiler][Lisp Compiler]]
+
+*  Road Map
+Basic overview of the lisp to python project
+**  Setup Ocaml project
+- Setup Dune Project
+**  Lisp Compiler
+- Build lexical analysis
+- Build syntax analysis
+- Build semantic analysis
