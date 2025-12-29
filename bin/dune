@@ -1,0 +1,4 @@
+(executable
+ (public_name lisp-to-python)
+ (name main)
+ (libraries lisp_to_python))

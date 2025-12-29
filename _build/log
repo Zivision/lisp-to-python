@@ -1,0 +1,6 @@
+# dune init proj lisp-to-python
+# OCAMLPARAM: unset
+# Shared cache: enabled-except-user-rules
+# Shared cache location: /home/main/.cache/dune/db
+# Workspace root: /home/main/Workspace/Ocaml/lisp-to-python
+# Auto-detected concurrency: 16
