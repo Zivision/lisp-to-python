@@ -1,15 +1,21 @@
 #+title: lisp-to-python
 
+A compiler that takes a lisp and transpiles it to Python
+
 *  Table of Contents :TOC_4:
+-  [[#why][Why?]]
 -  [[#road-map][Road Map]]
   -  [[#setup-ocaml-project][Setup Ocaml project]]
   -  [[#lisp-compiler][Lisp Compiler]]
 
+*  Why?
+I wanted to do this as a learning project to not only improve my functional programming skills.
+But to also learn how to build a compiler.
+This is *NOT* a replacement for hy, just a learning project not to be taken too seriously
+
 *  Road Map
 Basic overview of the lisp to python project
-**  Setup Ocaml project
-- Setup Dune Project
-**  Lisp Compiler
-- Build lexical analysis
-- Build syntax analysis
-- Build semantic analysis
+**  DONE Setup Ocaml project
+**  TODO Lisp Compiler
+- Build basic syntax rules
+- Build basic code generation
